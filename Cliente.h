@@ -1,7 +1,7 @@
 //Codigo creado por Diego Alejandro Balderas Tlahuitzo A01745336
 
-#ifndef Orden_C
-#define Orden_C
+#ifndef Cliente_C
+#define Cliente_C
 #include <iostream>
 #include <string>
 #include <vector>
