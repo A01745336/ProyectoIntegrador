@@ -1,4 +1,4 @@
-//María Araceli Barreto Figueroa A01753098
+//Codigo creado por María Araceli Barreto Figueroa A01753098
 
 #ifndef Cuenta_C
 #define Cuentaa_C
