@@ -1,4 +1,4 @@
-//Codigo creado por Diego Alejandro Balderas Tlahuitzo A01745336
+//Clase creada por María  Barreto A01753098 y Diego  Balderas A01745336
 
 #ifndef Cliente_C
 #define Cliente_C

@@ -1,4 +1,4 @@
-//Codigo creado por María Araceli Barreto Figueroa A01753098
+//Clase creada por Diego Balderas A01745336
 
 #ifndef Cuenta_C
 #define Cuentaa_C

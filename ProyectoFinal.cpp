@@ -1,5 +1,5 @@
-//María Araceli Barreto Figueroa A01753098
-//Diego Alejandro Balderas Tlahuitzo A01745336
+//María Barreto  A01753098
+//Diego  Balderas A01745336
 
 #include <iostream>
 #include <string>
@@ -84,7 +84,7 @@ void setTamano(int numeroDeMesa){
          
 };
 
-class Orden{
+class Orden{ //Clase Creada por María Barreto A01753098
 private:
     int tipoDeComida{};
     int cantidad{};
